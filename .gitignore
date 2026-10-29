@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / tool state
+.vscode/
+.idea/
+*.sqbpro
+
+# Local secrets (if you ever add real keys, put them in one of these)
+.env
